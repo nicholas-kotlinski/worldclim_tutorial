@@ -1,16 +1,15 @@
-Extracting Climate Statistics from Spatial Data - Tutorial
+Extracting Climate Statistics from Spatial Data - R Tutorial
 ================
 
 #### Note
+This tutorial was created for a student interested in developing
+their skills in GIS and R. The examples focus on Mongolia, because I was working on a project there at the time.
 
-This tutorial was created to help students interested in developing
-their skills in GIS and R. 
-
-#### Goal Familiarize yourself with R
-Studio by mapping and visualizing climate data. You will be working with
+#### Goal
+Familiarize yourself with R Studio by mapping and visualizing climate data. You will be working with
 WorldClim global climate data (temperature and precipitation) with a
 special focus on subsetting data to Mongolia. You can read more about
-this dataset at <http://www.worldclim.org/>. 
+the primary dataset at <http://www.worldclim.org/>. 
 
 #### Getting the data
 If you are downloading the tutorial and data from Github you should
